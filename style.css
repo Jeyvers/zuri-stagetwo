@@ -146,6 +146,19 @@ nav .flex {
     
 }
 
+.portfolio-link {
+    color: white;
+    border: #fff solid 1px;
+    border-radius: 5px;
+    padding: 10px 16px;
+    
+}
+
+.portfolio-link:hover {
+    background: rgb(255, 223, 223);
+    color: black;
+    
+}
 
 
 .showcase {
